@@ -20,7 +20,8 @@ This tutorial outlines the process of creating users in Entra ID.<br />
 <h2>Users Created</h2>
 
 <p>
-<img width="1724" height="862" alt="image" src="https://github.com/user-attachments/assets/e5f6f8d6-6980-4159-8399-5e6db404a780" />
+<img width="1907" height="777" alt="Screenshot 2026-06-03 000037" src="https://github.com/user-attachments/assets/4210d0ea-946d-482f-9a85-6ce1136fe217" />
+
 
 </p>
 <p>
@@ -29,7 +30,8 @@ Created a new user named Chris Walker.
 <br />
 
 <p>
-<img width="1718" height="847" alt="image" src="https://github.com/user-attachments/assets/52c6eb54-5718-4855-ae1b-6eda7e2581f3" />
+<img width="1907" height="777" alt="Screenshot 2026-06-03 000248" src="https://github.com/user-attachments/assets/d6c96ae1-8386-4159-97d1-e47d691f95a9" />
+
 
 </p>
 <p>
